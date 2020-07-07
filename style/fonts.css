@@ -1,0 +1,25 @@
+@font-face{
+    font-family: 'colibri-bold';
+    src: url(../fonts/Calibri-Bold.ttf);
+}
+@font-face{
+    font-family: 'colibri';
+    src: url(../fonts/Calibri.ttf)
+}
+
+@font-face{
+    font-family: 'ubuntu-bold';
+    src: url(../fonts/Ubuntu-Bold.ttf);
+}
+@font-face{
+    font-family: 'verdana';
+    src: url(../fonts/ofont.ru_Verdana.ttf);
+}
+@font-face{
+    font-family: 'roboto-bold';
+    src: url(../fonts/Roboto-Bold.ttf);
+}
+@font-face{
+    font-family: 'roboto';
+    src: url(../fonts/Roboto-Regular.ttf);
+}
